@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+   
+<Placemark>
+	<name>Carelton University</name>
+	<Point>
+		<coordinates>-75.693454,45.377871,0</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<name>Larus</name>
+	<Point>
+		<coordinates>-75.698527,45.41252,0</coordinates>
+	</Point>
+</Placemark>
+
+  </Document>
+</kml>
